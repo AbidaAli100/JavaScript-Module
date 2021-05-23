@@ -9,4 +9,7 @@
  
       alert("Name matched");
   }
+  else {
+    greeting = "Not matched";
+  }
 }
