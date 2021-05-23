@@ -1,4 +1,5 @@
-  const name="abida";
-  name="Ali"
-console.log (name);
+  function printMe(){
+    let name = ('name');
+    console.log(name);
+  }
  
