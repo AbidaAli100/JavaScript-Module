@@ -8,7 +8,7 @@ function checkIt(){
    console.log (inputValue);
 
    //access h1 element//
- let heading = document.querySelector('h1');
+ let heading = document.querySelector('h1 span');
  console.log (heading);
 
  //Change content of h1//
