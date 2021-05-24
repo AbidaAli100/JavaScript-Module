@@ -1,0 +1,28 @@
+body{
+    background-color: blanchedalmond;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+button{
+    padding: 10px 3em;
+    font-size: 1em;
+    font-family: sans-serif;
+    background-color: burlywood;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px 1px black;
+    cursor: pointer;
+    transition: all 0.5s;
+   
+}
+input{
+    border-radius: 30px;
+    box-shadow: 1px 1px 5px 1px black;
+}
+input:active{
+    background-color: black;
+    
+}
